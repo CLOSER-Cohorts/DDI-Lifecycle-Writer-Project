@@ -12,4 +12,8 @@ https://github.com/ncrncornell/ced2arspssreader
 
 Please use Issues to flag functionality required
 
+A version of the code, that has been given a bit of TLC is at
+https://github.com/daxplore/spssreader
+
+The orgiinal code is no longer at: http://opendatafoundation.org/?lvl1=forge 
 
