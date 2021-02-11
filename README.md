@@ -17,3 +17,14 @@ https://github.com/daxplore/spssreader
 
 The orgiinal code is no longer at: http://opendatafoundation.org/?lvl1=forge 
 
+## Specification
+
+Field lelve documentation is at https://ddialliance.org/Specification/DDI-Lifecycle/3.3/XMLSchema/FieldLevelDocumentation/ 
+
+Entry point for a datafile is:
+FragmentInstance
+-> Fragments 
+--> Resource Package
+---> PhysicalInstanceReference 
+---> CategorySchemeReference
+---> VariableSchemeReference
