@@ -1,4 +1,4 @@
-# DDI-Lifecycle-Writer
+# DDI-Lifecycle-Writer-Project
 Project to gather issues for extending Cornell DDI-CodeBook Writer
 
 This project will extend / create a new code line based on
